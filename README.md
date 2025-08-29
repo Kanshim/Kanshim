@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Simon Kanka is a PhD student at the Physics department of the University of Pisa. His research is focused on acoustic physics applied to tyre road noise to evaluate the surface course of rubberized asphalt. Simon has obtained his master degree in theoretical physics at the Univerisity of Pisa in the field of quantum gravity. The master thesis discussion title was "Effective description of fluid membranes and quantum gravity". He also partecipated in the TRIM project to classify acoustic comfort inside ships with classical acoustic measurements and the use of the acoustic camera.
+Simon Kanka is an associate researcher at the Department of Physics of the University of Pisa. He acquired his Ph.D. degree in Applied Physics at the Physics department of the University of Pisa. The Ph.D. thesis discussion title "Modelling with machine learning techniques of the acoustic perfomance of rubberized asphalt pavements and their physical characterization to reduce their impact and extend their lifetime". His research is focused on acoustic physics applied to tyre road noise to evaluate the surface course of rubberized asphalt. Simon has obtained his master degree in theoretical physics at the Univerisity of Pisa in the field of quantum gravity. The master thesis discussion title was "Effective description of fluid membranes and quantum gravity". He also partecipated in the TRIM project to classify acoustic comfort inside ships with classical acoustic measurements and the use of the acoustic camera.
 
 At the moment he is working on:
 - Tyre Cavity Noise measured with a specific Tyre Cavity Microphone to study the acoustic properties of tyres for the exterior noise;
